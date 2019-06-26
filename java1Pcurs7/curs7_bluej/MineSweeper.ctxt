@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MineSweeper
+comment1.params=
+comment1.target=MineSweeper()
+comment10.params=
+comment10.target=void\ initMenu()
+comment2.params=
+comment2.target=void\ initComponents()
+comment3.params=n\ m
+comment3.target=void\ initGame(int,\ int)
+comment4.params=
+comment4.target=void\ gameOver()
+comment5.params=i\ j
+comment5.target=void\ clickEvent(int,\ int)
+comment6.params=i\ j
+comment6.target=void\ recursiveClick(int,\ int)
+comment7.params=i\ j
+comment7.target=int\ getMines(int,\ int)
+comment8.params=
+comment8.target=void\ showMines()
+comment9.params=n\ m
+comment9.target=void\ generateMines(int,\ int)
+numComments=11
